@@ -13,6 +13,6 @@ dependencies:
 - cython
 - tqdm
 - pip:
-  - pytorch==1.0.0
+  - pytorch==1.0.2
   - iopath
   - git+https://github.com/facebookresearch/hypernymysuite.git
