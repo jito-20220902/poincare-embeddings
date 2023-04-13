@@ -12,6 +12,7 @@ dependencies:
 - h5py
 - cython
 - tqdm
+- ipywidgets
 - pip:
   - torch==1.0.0
   - iopath
